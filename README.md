@@ -1,4 +1,4 @@
-DevMarshal is an (<a href='https://github.com/niedev/RTranslator?tab=readme-ov-file#libraries-and-models'>almost</a>) open-source, free, and offline real-time translation app for Android.
+DevMarshal is an open-source, free, and offline real-time translation app for Android.
 
 Connect to someone who has the app, connect Bluetooth headphones, put the phone in your pocket and you can have a conversation as if the other person spoke your language.
 <br /><br />
