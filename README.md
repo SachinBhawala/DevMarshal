@@ -69,7 +69,7 @@ To speak, DevMarshal uses the system TTS of your phone, so the quality of the la
 
 The supported languages ​​seen above are all compatible with <a href="https://play.google.com/store/apps/details?id=com.google.android.tts&pcampaignid=web_share">Google TTS</a>, which is the recommended TTS (although you can use the TTS you want).
 
-To change the system TTS (and therefore the TTS used by DevMarshal), download the TTS you want to use from the Play Store, or from the source you prefer, and open RTranslator, then open its settings (top right) and, in the "Output" section, click on "Text to Speech", at this point the system settings will open in the section where you can select the preferred system TTS engine (among those installed), at this point, if you have changed the preferred engine, restart RTranslator to apply the changes (close it from the recent apps and then reopen it).
+To change the system TTS (and therefore the TTS used by DevMarshal), download the TTS you want to use from the Play Store, or from the source you prefer, and open DevMarshal, then open its settings (top right) and, in the "Output" section, click on "Text to Speech", at this point the system settings will open in the section where you can select the preferred system TTS engine (among those installed), at this point, if you have changed the preferred engine, restart DevMarshal to apply the changes (close it from the recent apps and then reopen it).
 
 **Note:** If after that the TTS doesn't work, you can clear the cache of DevMarshal and the TTS from Android Applications settings, reboot the phone and retry.
 <br /><br />
@@ -78,7 +78,7 @@ To change the system TTS (and therefore the TTS used by DevMarshal), download th
 
 <h3>Libraries and models</h3>
 
-RTranslator code is completely open-source, but some of the external libraries it uses have less permissive licenses, these are all the external libraries used by the app (with the indication of their license):
+Devmarshal code is completely open-source, but some of the external libraries it uses have less permissive licenses, these are all the external libraries used by the app (with the indication of their license):
 
 <a href="https://github.com/niedev/BluetoothCommunicator">BluetoothCommunicator</a> (open-source): Used for Bluetooth LE communication between devices.
 
